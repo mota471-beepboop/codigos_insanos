@@ -1,0 +1,10 @@
+programa
+{
+	
+	funcao inicio()
+	{ inteiro n[2], i=0
+	 escreva ("descubra quais dos 10 numeros sao pares ou impares")
+	 para i=0;i<2;i++
+		escreva("digite um valor")
+	}
+}
